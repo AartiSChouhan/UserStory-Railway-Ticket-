@@ -1,0 +1,10 @@
+PNR         : IM_20211221_102
+Train no    : 1234
+Train Name  : Avantika Express
+Source      : Indore
+Destination : Mumbai
+Travel Date : 21/12/2021
+Passengers
+Name          Age        Gender      TicketFare
+Aarti         23          F          600
+Total Price: 600.0
